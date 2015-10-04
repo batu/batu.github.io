@@ -1556,7 +1556,7 @@
 
 /* Batu Addition */
 .circleContainer {
-    height: 35%;
+   	height: 35%;
     margin: auto;
     position: absolute;
     top: 0;
@@ -1578,6 +1578,7 @@
 .circleBase{
 	display:inline-block;
     overflow: hidden;
+    width: 270px;
     -webkit-border-radius: 100%;
     border-radius: 100%;
     -webkit-background-size: cover;
