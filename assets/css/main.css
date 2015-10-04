@@ -1728,7 +1728,7 @@ body.landing {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #50C0EE;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2169,7 +2169,7 @@ body.landing {
 		}
 
 			#nav ul li a.active span:before {
-				color: #25C8FF;
+				color: #50C0EE;
 			}
 
 
