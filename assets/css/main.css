@@ -1555,6 +1555,7 @@
 
 
 /* Batu Addition */
+
 .circleContainer {
 	height: 35%;
     margin: auto;
@@ -1790,7 +1791,9 @@ body.landing {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 80%;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 		.image.avatar48 {
