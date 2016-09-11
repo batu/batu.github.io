@@ -1,9 +1,32 @@
+
+--ShowCase
+Minidungeons
+Capstone
 Syria VR thingy
-Costumes as game controllers
-Capstone Project
 Play A to Start 
+Costumes as game controllers
+Jeremy Cohen 
 
+--Game Designs
+Workshops
+Mercy Frontier
+Fallout Wars
+That other weird one in advanced.
+Mia's capstone
+Attilios capstone
 
+--Development
+Tagalyzer
+The Four Knights
+ID Hero
+Eco Eco
+Game Recommendation Engine
+NLP
+
+--- 
+Taalemni 
+Zebra
+Look Beyond
 
 
 Prologue by HTML5 UP

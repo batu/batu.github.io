@@ -1579,7 +1579,7 @@
 .circleBase{
 	display:inline-block;
     overflow: hidden;
-    width: 270px;
+    width: 250px;
     -webkit-border-radius: 100%;
     border-radius: 100%;
     -webkit-background-size: cover;
@@ -1791,7 +1791,7 @@ body.landing {
 
 		.image img {
 			display: block;
-			width: 80%;
+			width: 60%;
 			margin-left: auto;
 			margin-right: auto;
 		}
