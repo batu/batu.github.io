@@ -7,6 +7,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+	.textbox{
+		text-align: left;
+	}
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -1699,7 +1703,7 @@ body.landing {
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		header > p {
@@ -1791,7 +1795,7 @@ body.landing {
 
 		.image img {
 			display: block;
-			width: 60%;
+			width: 100%;
 			margin-left: auto;
 			margin-right: auto;
 		}
@@ -1814,8 +1818,9 @@ body.landing {
 
 		.image.featured {
 			display: block;
-			width: 100%;
-			margin: 0 0 2em 0;
+			float: left;
+			width: 50%;
+			margin: 1em;
 		}
 
 		.image.left {
@@ -1828,10 +1833,10 @@ body.landing {
 			margin: 0 0 2em 0;
 		}
 
-			.image.centered img {
+		.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+		}
 
 /* List */
 
@@ -2307,7 +2312,7 @@ body.landing {
 		/* Main */
 
 			#main > section {
-				padding: 3em 0;
+				padding: 1.5em 0;
 			}
 
 			#main section.cover {
