@@ -1707,7 +1707,7 @@ body.landing {
 	}
 
 		header > p {
-			margin: 1em 0 0 0;
+			margin: 0em 0 0 0;
 		}
 
 	footer {
@@ -2116,7 +2116,7 @@ body.landing {
 
 	#logo {
 		position: relative;
-		margin: 1.75em 1.5em 1.5em 1.5em;
+		margin: 1.75em 1.5em 0.75em 1.5em;
 		min-height: 48px;
 		cursor: default;
 	}
@@ -2146,7 +2146,7 @@ body.landing {
 
 	#nav ul li a {
 		display: block;
-		padding: 0.5em 1.5em 0.5em 1.5em;
+		padding: 0.5em 1.5em 0.0em 1.5em;
 		color: rgba(255, 255, 255, 0.5);
 		text-decoration: none;
 		outline: 0;
